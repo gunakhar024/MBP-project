@@ -10,4 +10,4 @@ String version=resource.getString("version");%>
 "Successfully for the first project using Maven added with new change"</h2>
  <h3>entered in master branch by jenkins tooL</h3>
 </body>
-</html>
+</>
